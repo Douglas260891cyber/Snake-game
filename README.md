@@ -13,16 +13,6 @@ Ideal para praticar lógica de programação, manipulação do DOM e eventos de 
 
 ---
 
-## 🖼️ Preview
-
-### 📸 Screenshot
-![Snake Game Screenshot](./assets/screenshot.png)
-
-### 🎥 Gameplay
-![Snake Game GIF](./assets/gameplay.gif)
-
----
-
 ## 🚀 Tecnologias Utilizadas
 - **HTML5** — estrutura do jogo  
 - **CSS3** — layout e estilização  
