@@ -1,21 +1,28 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script defer src="script.js"></script>
-    <!--O defer faz o js ser carregano no final-->
-    <link rel="stylesheet" href="style.css" />
-    <title>Snake Game</title>
-  </head>
-  <body>
-    <div class="logo">
-      <img class="snake" src="img/cobra (1).png" width="150" height="130" />
-      <h1 class="titulo">SNAKE GAME</h1>
-    </div>
 
-    <div class="layout">
-      <canvas id="snake" width="512" height="512"></canvas>
-    </div>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script defer src="./src/js/script.js"></script>
+  <link rel="stylesheet" href="./src/css/style.css" />
+  <title>Snake Game</title>
+</head>
+
+<body>
+
+  <div class="logo">
+    <img class="snake" src="./src/img/cobra.png" width="150" height="130" />
+    <h1 class="titulo">
+      SNAKE GAME
+    </h1>
+  </div>
+
+  <div class="layout">
+    <canvas id="snake" width="512" height="512">
+    </canvas>
+  </div>
+
+</body>
+
 </html>
