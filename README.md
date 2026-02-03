@@ -7,7 +7,7 @@ Ideal para praticar lógica de programação, manipulação do DOM e eventos de 
 
 ## 🎮 Demonstração
 🔗 **Acesse o jogo:**  
-👉 https://SEU-USUARIO.github.io/snake_game
+👉 https://Douglas260891cyber.github.io/snake_game
 
 *(Ative o GitHub Pages para funcionar)*
 
